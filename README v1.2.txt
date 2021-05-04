@@ -13,3 +13,5 @@ Decided on GNU AGPL software license
 To Do:
 Include better instructions (in app, in comments, as a doc, as a video.)
 Add Orcid funtion for authors
+Modularize Codasaurus
+Delete removed nodes from the list of nodes when the remove button is used
